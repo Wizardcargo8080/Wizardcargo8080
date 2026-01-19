@@ -1,16 +1,20 @@
-## Hi there 👋
+## Eyad Mohamed
 
-<!--
-**Wizardcargo8080/Wizardcargo8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desktop developer focused on media tooling, automation, and systems-level understanding.
 
-Here are some ideas to get you started:
+### Current Focus
+- Cross-platform desktop apps (Kotlin / JVM)
+- Media download pipelines using yt-dlp
+- OS, networking, and reverse-engineering fundamentals
+- Ethical Hacker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Notable Projects
+- ytdlnis-desktop — Desktop port of the YTDLnis Android app
+- Experimental repositories for controlled lab research and learning
+
+### Principles
+- Open-source first
+- Clean, readable code
+- Learning by reading real-world projects
+
+⚠️ Security-related repositories are for educational and laboratory analysis only.
