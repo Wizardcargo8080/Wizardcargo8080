@@ -1,6 +1,6 @@
 ## Eyad Mohamed
 
-Desktop developer focused on media tooling, automation, and systems-level understanding.
+Desktop developer focused on media tooling, automation, systems-level understanding and hacking.
 
 ### Current Focus
 - Cross-platform desktop apps (Kotlin / JVM)
